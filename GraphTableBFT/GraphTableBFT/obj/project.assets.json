@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sasha\\source\\repos\\GraphTableBFT\\GraphTableBFT\\GraphTableBFT.csproj",
+      "projectUniqueName": "D:\\BFTGT\\GraphTableBFT\\GraphTableBFT\\GraphTableBFT.csproj",
       "projectName": "GraphTableBFT",
-      "projectPath": "C:\\Users\\sasha\\source\\repos\\GraphTableBFT\\GraphTableBFT\\GraphTableBFT.csproj",
+      "projectPath": "D:\\BFTGT\\GraphTableBFT\\GraphTableBFT\\GraphTableBFT.csproj",
       "packagesPath": "C:\\Users\\sasha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sasha\\source\\repos\\GraphTableBFT\\GraphTableBFT\\obj\\",
+      "outputPath": "D:\\BFTGT\\GraphTableBFT\\GraphTableBFT\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sasha\\AppData\\Roaming\\NuGet\\NuGet.Config",

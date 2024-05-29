@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DVyxXdtP+kbo2g2mWD7Dc0I1Gxv2EA4xk+F0HzOIIUw4hXmKNGFtmkwo7aiiTcm9RrM2sxqcwk+eu66DMVpLog==",
+  "dgSpecHash": "LsFgN3CaNrKVdTh3o+FHsvBD6grZnxTtTSM6oYxASt7Y3/yzjaFlvHmrna9nBIPrQHGOl1ZWTtuVbDma1UE30A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sasha\\source\\repos\\GraphTableBFT\\GraphTableBFT\\GraphTableBFT.csproj",
+  "projectFilePath": "D:\\BFTGT\\GraphTableBFT\\GraphTableBFT\\GraphTableBFT.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
